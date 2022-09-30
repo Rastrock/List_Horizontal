@@ -47,7 +47,7 @@ class _ListWheelState extends State<ListWheelHorizontal> {
             margin: const EdgeInsets.all(20) ,
             height: 100,
             width: 200,
-            color: Colors.red,
+            color: Colors.blue,
           ),
 
 
